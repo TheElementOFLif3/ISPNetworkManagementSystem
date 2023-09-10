@@ -1,4 +1,3 @@
-# ISPNetworkManagementSystem
 JavaFX ISP Network Management System with a database MYSQL 8
 
 
